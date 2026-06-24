@@ -1,0 +1,1 @@
+ChromaDB es una base de datos vectorial utilizada en sistemas de inteligencia artificial y RAG.

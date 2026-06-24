@@ -1,0 +1,1 @@
+MongoDB es una base de datos NoSQL orientada a documentos.
